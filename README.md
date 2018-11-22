@@ -5,6 +5,6 @@ Here is hand Gesture operated audio player .you can control audio by five finger
 #Requirement
 python any version with library cv2 ,numpy, math, pygame, random,keybord,time & ctypes
 
-after downloading zip ,extract it and run main.py
+after downloading zip ,extract it then add one .wav audio file which you want to play .
 
-you can change music file rrr.wav with your wav file but also change music name in main.py code.
+you have to change music file name rrr.wav with your wav file music name in main.py code.
